@@ -1,0 +1,2 @@
+# Aucune dépendance externe n'est requise
+# Tkinter est inclus avec Python standard
